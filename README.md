@@ -79,3 +79,7 @@ GeeksforGeeks helped most in learning fundamental NLP principles such as tokeniz
 I also gained knowledge about using Python libraries such as nltk and matplotlib from their articles and examples.
 
 Stack Overflow threads resolved errors like ModuleNotFoundError and conflicts with Python versions.
+
+OUTPUT:
+
+<img width="665" alt="Image" src="https://github.com/user-attachments/assets/76e47f45-78dd-44dd-be75-17826c96d0cd" />
